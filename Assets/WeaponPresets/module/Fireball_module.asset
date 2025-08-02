@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c3dc2676bf0ba8a4dbbacbe09091df28, type: 3}
+  m_Name: Fireball_module
+  m_EditorClassIdentifier: 
+  timer: 2
+  projectile: {fileID: 3462662428073677048, guid: 318c94743dbf49048a992273ae8fd859, type: 3}
+  projectileSpeed: 2
+  sprite: {fileID: 21300000, guid: d843bdc711e689e49b636a4b8a824c67, type: 3}

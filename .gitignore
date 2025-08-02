@@ -1,0 +1,73 @@
+# ========================================
+# Unity generated
+# ========================================
+
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+UserSettings/
+Assets/StreamingAssets/aa.meta
+Assets/StreamingAssets/aa/
+
+# ========================================
+# Rider & VS
+# ========================================
+
+.vs/
+.vscode/
+.idea/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+
+# JetBrains Rider
+*.sln.iml
+
+# ========================================
+# OS generated
+# ========================================
+
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ========================================
+# Build artifacts
+# ========================================
+
+*.apk
+*.aab
+*.xcworkspace
+*.xcuserstate
+*.xcodeproj
+*.pbxproj
+
+# ========================================
+# Unity WebGL build
+# ========================================
+
+Build/
+Builds/
+
+# ========================================
+# TextMesh Pro (auto-generated files)
+# ========================================
+
+Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF.asset
+
+# ========================================
+# Collab / Plastic SCM
+# ========================================
+
+.collab/
+.plastic/
+.ignore
+*.pidb

@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5cb60705ecdef5f4f87fc0fb2e5b21f0, type: 3}
+  m_Name: Terra_data
+  m_EditorClassIdentifier: 
+  icon: {fileID: 21300000, guid: 80fcba7b79c24a24697254aa9fc5ab92, type: 3}
+  damage: 3
+  modules:
+  - {fileID: 11400000, guid: 91386dfa297085140a4d76af138f434c, type: 2}
+  - {fileID: 11400000, guid: c891ec00cd7b70a47874a58d774cd49e, type: 2}
+  animation: {fileID: 11400000, guid: a49a5c63256df4a428ba09366b78d554, type: 2}
+  width: 0.5
+  range: 2
+  weapon_obj: {fileID: 8330524297004736003, guid: 7dc621e258375e74d80d5c5cbfc956ca, type: 3}
