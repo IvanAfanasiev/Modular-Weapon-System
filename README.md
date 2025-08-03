@@ -102,7 +102,7 @@ Modifies the "damage" value in the context by multiplying it with a random numbe
 
 📸 Demo & Screenshots
 🖼️ ![Screenshot of demo scene](./git_assets/DemoScene.png)
-🕹️ Try the WebGL [Demo](https://ivanafanasiev.github.io/Modular-Weapon-System/)
+🕹️ Try the WebGL [Demo](https://ivanafanasiev.github.io/Modular-Weapon-System/docs/)
 
 🧩 Future Ideas (Optional Section)
 - Modular charge system (e.g., hold to charge)
